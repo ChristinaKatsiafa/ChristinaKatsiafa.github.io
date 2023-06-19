@@ -1,0 +1,9 @@
+I"n<h2 id="background">Background</h2>
+<p>Data cleaning is the most time consuming part of the data analysis. As it takes about 80% of the total time</p>
+
+<h2 id="packages-we-use">Packages we use</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>import pandas as pd
+import numpy as np
+</code></pre></div></div>
+
+:ET
